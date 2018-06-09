@@ -1,3 +1,16 @@
+This app was created as a means to introduce myself to the ReactJS framework. I used a guide to make this app, then added a personal rick an morty twist to it. The original guide can be found here: https://www.kirupa.com/react/simple_todo_app_react.htm
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
